@@ -1,0 +1,3 @@
+#Store metainfo properties
+#Wed Oct 07 19:01:31 UTC 2026
+description=Source sends batch of message it contains 50 orders but target accepts only 10 orders per minute remaining will hold in queue and process later for every minute.
